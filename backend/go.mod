@@ -1,3 +1,3 @@
-module github.com/shashwat-dixit/backend
+module docit/backend
 
-go 1.22.5
+go 1.23.2
